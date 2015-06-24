@@ -1,6 +1,8 @@
 middleman-bower
 ===========
 
+[![Join the chat at https://gitter.im/bbtfr/middleman-bower](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bbtfr/middleman-bower?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gem Version](http://img.shields.io/gem/v/middleman-bower.svg)][gem]
 [![Code Climate](http://img.shields.io/codeclimate/github/bbtfr/middleman-bower.svg)][codeclimate]
 
